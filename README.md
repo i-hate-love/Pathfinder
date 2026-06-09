@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
-**Blue and green spheres chase the red player.** They activate only when you get close — then they find a path to you, even through moving obstacles.
+**Blue and green spheres chase the red player.** They activate only when you get close - then they find a path to you, even through moving obstacles.
 
 ---
 
@@ -26,14 +26,6 @@
 
 ## 🛠️ Tech Stack
 
-- **Engine:** [Unity / Godot / Unreal / Python — choose yours]
-- **Language:** [C# / GDScript / C++ / Python]
+- **Engine:** [Unity]
+- **Language:** [C#]
 - **Pathfinding:** A* (or similar)
-
----
-
-## 📥 Quick Start
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
