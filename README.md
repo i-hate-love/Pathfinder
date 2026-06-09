@@ -20,7 +20,7 @@
 - Proximity activation (spheres ignore you until you're close)
 - Smart pathfinding around static and **dynamic** obstacles
 - Two predator types (blue = aggressive, green = slower)
-- Modular code — easy to modify or extend
+- Modular code - easy to modify or extend
 
 ---
 
