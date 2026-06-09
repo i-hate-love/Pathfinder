@@ -1,6 +1,6 @@
 # 🔴 Chase Sense · Dynamic Predator AI
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](жжж)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/license/MIT)
 
 **Blue and green spheres chase the red player.** They activate only when you get close - then they find a path to you, even through moving obstacles.
 
